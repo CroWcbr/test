@@ -1,4 +1,4 @@
 # test
 my other test
 
-- cubik - визуализация, тесты с openGL
+- cubik - визуализация, тесты с openGL (glut)
